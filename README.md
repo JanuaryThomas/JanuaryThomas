@@ -5,7 +5,7 @@ My Grandest Dream is make most Intelligent Electronics, I call them Intelecs. As
 😄😄😄 But I occasionally help teams in Kotlin and Some of Android things.
 
 ### 😄 Pronouns
-She/Her
+He/Him
 
 - 🌱 I’m currently learning ...
 -->
