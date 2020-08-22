@@ -8,4 +8,5 @@ My Grandest Dream is make most Intelligent Electronics, I call them Intelecs. As
 He/Him
 
 - 🌱 I’m currently learning ...
--->
+-->AWS Solution Architech from Basic to Pro
+--> Terraform Infastructure as code
