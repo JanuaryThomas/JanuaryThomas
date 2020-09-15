@@ -6,11 +6,6 @@ My Grandest Dream is make most Intelligent Electronics, I call them Intelecs. As
 
 ### 😄 Pronouns
 He/Him
-
-- 🌱 I’m currently learning ...
--- AWS Solution Architech from Basic to Pro
--- Terraform Infastructure as code
--- I'm current reseaching on Resudals Neural Netwroks, Read My Codes and Papers from [Intelcs](https://github.com/Intelecs)
 -- My Favorited Works
    1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
    2. All of IoT
