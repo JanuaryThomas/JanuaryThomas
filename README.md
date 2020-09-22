@@ -1,12 +1,25 @@
-# Habari, Dunia! 👋
+# Habari, Dunia! (Hello, World!)👋
 
-I am January Thomas(Janvier). I am Interested with IoT, with passion and patience Nothing I can't do. I'm Aspiring Data Scientist, A Researcher in Computational Intelligence and Neuroscience.
-My Grandest Dream is make most Intelligent Electronics, I call them Intelecs. Ask me Anything about Advanced Programming, particullary Python and Javascript. But I haven't forgotten to Write C/C++ Firmwares and all Embbeded Staffs.
-😄😄😄 But I occasionally help teams in Kotlin and Some of Android things.
+I am January Thomas(Janvier), I have high Interest in IoT and Embedding Software Design. I'm Aspiring Data Scientist, A Researcher in Computational Intelligence and Neuroscience.
+I'm open minded on any discussion about Advanced Programming.
+
 
 ### 😄 Pronouns
 He/Him
+### Works
 -- My Favorited Works
    1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
    2. All of IoT
+   3. About Release
 - 👣 Footprint: Amazing organizations i have worked with [Kopagas](http://kopagas.com/), [B&B's Land Consultancy and Logistics](), [Nafasi](https://github.com/Nafasi-Technology), [InspiredIdeas](http://inspiredideas.io/)
+### -- Learning
+   1. Terraform
+   2. AWS Solution Architect Certificated
+   3. Tensorflow 2.0
+   4. Endless Learning
+  
+### -- Superpowers
+I have bigger Ears than tounge, I prefer to listen and speak less, I always found in places where there is few on people.
+I always learn anything useful.
+
+😄😄😄😄 I'm A Polyglot Engineer
