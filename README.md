@@ -7,22 +7,22 @@ I'm open minded on any discussion about Advanced Programming.
 ### 😄 Pronouns
 He/Him
 ### Works
---My Favorited Works
+My Favorited Works
    1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
    2. All of IoT
    3. 
---👣 Footprint: Amazing organizations i. (i'm/have) (worked/working) with 
+👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
    1. [Kopagas](http://kopagas.com/), 
    2. [B&B's Land Consultancy and Logistics](), 
    3. [Nafasi](https://github.com/Nafasi-Technology), 
    4. [InspiredIdeas](http://inspiredideas.io/)
-### --Learning
+### Learning
    1. Terraform
    2. AWS Solution Architect Certificated
    3. Tensorflow 2.0
    4. Endless Learning
   
-### --Superpowers
+### Superpowers
 I have bigger Ears than tounge, I prefer to listen and speak less, I always found in places where there is few on people.
 I always learn anything useful.
 
