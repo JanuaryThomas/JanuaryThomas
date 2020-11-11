@@ -10,8 +10,12 @@ He/Him
 -- My Favorited Works
    1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
    2. All of IoT
-   3. About Release
-- 👣 Footprint: Amazing organizations i have worked with [Kopagas](http://kopagas.com/), [B&B's Land Consultancy and Logistics](), [Nafasi](https://github.com/Nafasi-Technology), [InspiredIdeas](http://inspiredideas.io/)
+   3. 
+-- 👣 Footprint: Amazing organizations i. (i'm/have) (worked/working) with 
+   1. [Kopagas](http://kopagas.com/), 
+   2. [B&B's Land Consultancy and Logistics](), 
+   3. [Nafasi](https://github.com/Nafasi-Technology), 
+   4. [InspiredIdeas](http://inspiredideas.io/)
 ### -- Learning
    1. Terraform
    2. AWS Solution Architect Certificated
