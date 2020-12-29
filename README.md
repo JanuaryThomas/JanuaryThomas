@@ -9,7 +9,6 @@ He/Him
 My Favorited Works
    1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
    2. All of IoT
-   3. 
    
 👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
    1. [Kopagas](http://kopagas.com/), 
@@ -19,12 +18,24 @@ My Favorited Works
 ### Learning
    1. Terraform
    2. AWS Solution Architect Certificated
-   3. Tensorflow 2.0
+   3. Tensorflow 2.0 
    4. Endless Learning
 
 ### Doing at Night
    1. Learning and Implementing Self Driving Cars with Just Simple Hardware and Electronics
    2. Researching and Implementing Autopilot Just Simple Complex Tesla AI
+   
+### My Open Research and Proof of Concept
+   # 1. AWS IoT Core (Kotlin, AppSync)
+ ## What I did?
+ Used Raspberry Pi, ESPerrif as embedded devices that communicate direct with AWS IoT core by MQTT and simple devices shadows to store commands states from Android Application to monitor and control the IoT, What else I used (DynamoDB, Lambda + Google FCM, SNS)
+ [Android Application]()
+ [ESP Firmware]()
+ [Raspberry pi]()
+   # 2. Credit Score (LSTM)
+  I wanted to forecast future customers growth using LSTM implemented with Pytorch
+   # 3. Plant Diseases Image Classfication
+  
   
   
 ### Superpowers
