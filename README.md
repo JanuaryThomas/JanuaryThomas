@@ -12,14 +12,15 @@ My Favorited Works
    
 👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
    1. [Kopagas](http://kopagas.com/), 
-   2. [B&B's Land Consultancy and Logistics](), 
+   2. [MGas](https://mgas.ke/), 
    3. [Nafasi](https://github.com/Nafasi-Technology), 
    4. [InspiredIdeas](http://inspiredideas.io/)
 ### Learning
-   1. Terraform
+   1. Terraform(Good)
    2. AWS Solution Architect Certificated
-   3. Tensorflow 2.0 
-   4. Endless Learning
+   3. AWS Data Engineering
+   4. Tensorflow 2.0 
+   5. Endless Learning
 
 ### Doing at Night
    1. Learning and Implementing Self Driving Cars with Just Simple Hardware and Electronics
