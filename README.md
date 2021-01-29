@@ -30,7 +30,7 @@ My Favorited Works
    # 1. AWS IoT Core (Kotlin, AppSync)
  ## What I did?
  Used Raspberry Pi, ESPerrif as embedded devices that communicate direct with AWS IoT core by MQTT and simple devices shadows to store commands states from Android Application to monitor and control the IoT, What else I used (DynamoDB, Lambda + Google FCM, SNS)
- [Android Application]()
+ [Android Application](https://github.com/Intelecs/intelecs-greenhouse)
  [ESP Firmware]()
  [Raspberry pi]()
    # 2. Credit Score (LSTM)
