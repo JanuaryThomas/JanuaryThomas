@@ -58,14 +58,14 @@ My Favorited Works
    
 👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
    1. [Kopagas](http://kopagas.com/), 
-   2. ![MGAS](https://mgas.ke/wp-content/uploads/2019/11/logo.png) [MGas](https://mgas.ke/), 
+   2. <img src="https://mgas.ke/wp-content/uploads/2019/11/logo.png" height="40" width="80" alt="M-Gas" class="logo-1"> [MGas](https://mgas.ke/), 
    3. [Nafasi](https://github.com/Nafasi-Technology), 
    4. [InspiredIdeas](http://inspiredideas.io/)
 ### Learning
    1. [I'm learning a lot of research papers](https://arxiv.org/)
    
-   <img src="https://mgas.ke/wp-content/uploads/2019/11/logo.png" height="60" width="120" alt="M-Gas" class="logo-1">
   
+  <img src="https://static1.squarespace.com/static/589343aabe6594fa6e0f036c/t/5c7bcb3ca4222ff534240f45/1609594882565/?format=1500w" height="40" width="80" alt="M-Gas" class="logo-1">
 
 ### Doing at Night
    1. Learning and Implementing Self Driving Cars with Just Simple Hardware and Electronics
