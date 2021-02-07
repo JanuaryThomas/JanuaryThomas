@@ -36,7 +36,7 @@ I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/En
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
+![Jira](https://img.shields.io/badge/-Jira-000?&&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&style=for-the-badge&logo=Linux&logoColor=white)
 
 
