@@ -1,7 +1,51 @@
 # Habari, Dunia! (Hello, World!)👋
 
-I am January Thomas(Janvier), I have high Interest in IoT and Embedding Software Design. I'm Aspiring Data Scientist, A Researcher in Computational Intelligence and Neuroscience.
-I'm open minded on any discussion about Advanced Programming.
+### Social
+[!StormJanuary](https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)
+
+I am January Thomas Magori, a father of very gorgeous Kids and a Husband of very beautiful woman, these are my favorities role in the Universe.
+I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I love Doing Advanced Mathematics especially Statistics and Calculus, I do reseaches on Deep Learning models.
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphq)
+
+### Frameworks
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.Js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+
+### IoT and DIY
+![MQTT](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![NVidia Jetson Nano](https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+### Machine Learning and Data Analytics
+![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Tensorflow 2.0](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 
 ### 😄 Pronouns
 He/Him
@@ -16,31 +60,10 @@ My Favorited Works
    3. [Nafasi](https://github.com/Nafasi-Technology), 
    4. [InspiredIdeas](http://inspiredideas.io/)
 ### Learning
-   1. Terraform(Good)
-   2. AWS Solution Architect Certificated
-   3. AWS Data Engineering
-   4. Tensorflow 2.0 
-   5. Endless Learning
+   1. [I'm learning a lot of research papers](https://arxiv.org/)
+  
 
 ### Doing at Night
    1. Learning and Implementing Self Driving Cars with Just Simple Hardware and Electronics
-   2. Researching and Implementing Autopilot Just Simple Complex Tesla AI
-   
-### My Open Research and Proof of Concept
-   # 1. AWS IoT Core (Kotlin, AppSync)
- ## What I did?
- Used Raspberry Pi, ESPerrif as embedded devices that communicate direct with AWS IoT core by MQTT and simple devices shadows to store commands states from Android Application to monitor and control the IoT, What else I used (DynamoDB, Lambda + Google FCM, SNS)
- [Android Application](https://github.com/Intelecs/intelecs-greenhouse)
- [ESP Firmware]()
- [Raspberry pi]()
-   # 2. Credit Score (LSTM)
-  I wanted to forecast future customers growth using LSTM implemented with Pytorch
-   # 3. Plant Diseases Image Classfication
+   2. Researching and Implementing Autopilot, Buying Nvidia Jetson Nano
   
-  
-  
-### Superpowers
-I have bigger Ears than tounge, I prefer to listen and speak less, I always found in places where there is few on people.
-I always learn anything useful.
-
-😄😄😄😄 I'm A Polyglot Engineer
