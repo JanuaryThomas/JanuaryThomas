@@ -13,12 +13,18 @@ I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/En
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphq)
 
+### Databases
+
+![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Frameworks
+
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.Js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
@@ -34,21 +40,20 @@ I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/En
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
 ### IoT and DIY
+
 ![MQTT](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NVidia Jetson Nano](https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ### Machine Learning and Data Analytics
+
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Tensorflow 2.0](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-### 😄 Pronouns
-He/Him
 ### Works
 My Favorited Works
    1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
