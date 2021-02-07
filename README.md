@@ -58,7 +58,7 @@ My Favorited Works
    
 👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
    1. [Kopagas](http://kopagas.com/), 
-   2. [MGas](https://mgas.ke/), 
+   2. ![MGAS](https://mgas.ke/wp-content/uploads/2019/11/logo.png) [MGas](https://mgas.ke/), 
    3. [Nafasi](https://github.com/Nafasi-Technology), 
    4. [InspiredIdeas](http://inspiredideas.io/)
 ### Learning
