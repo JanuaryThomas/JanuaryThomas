@@ -1,8 +1,5 @@
 # Habari, Dunia! (Hello, World!)👋
 
-### Social
-[!StormJanuary](https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)
-
 I am January Thomas Magori, a father of very gorgeous Kids and a Husband of very beautiful woman, these are my favorities role in the Universe.
 I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I love Doing Advanced Mathematics especially Statistics and Calculus, I do reseaches on Deep Learning models.
 
