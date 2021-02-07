@@ -63,6 +63,8 @@ My Favorited Works
    4. [InspiredIdeas](http://inspiredideas.io/)
 ### Learning
    1. [I'm learning a lot of research papers](https://arxiv.org/)
+   
+   <img src="https://mgas.ke/wp-content/uploads/2019/11/logo.png" height="60" width="120" alt="M-Gas" class="logo-1">
   
 
 ### Doing at Night
