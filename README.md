@@ -1,6 +1,6 @@
 # Habari, Dunia! (Hello, World!)👋
 
-I am January Thomas Magori, a father of very gorgeous Kids and a Husband of very beautiful woman, these are my favorities role in the Universe.
+![](https://komarev.com/ghpvc/?username=JanuaryThomas&color=red)
 I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I love Doing Advanced Mathematics especially Statistics and Calculus, I do reseaches on Deep Learning models.
 
 ### Languages
