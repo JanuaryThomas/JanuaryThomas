@@ -66,5 +66,6 @@ My Favorited Works
 
 ### Doing at Night
    1. Learning and Implementing Self Driving Cars with Just Simple Hardware and Electronics
-   2. Researching and Implementing Autopilot, Buying Nvidia Jetson Nano
+   2. Researching and Implementing Autopilot (Repository, Comming Soon.......)
+   3. Just deployed Covid19 Facemask and Thermal scanner inside Greengrass and Raspberry Pi (Repository, Coming soon.......)
   
