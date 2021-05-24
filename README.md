@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=JanuaryThomas&color=red)
 -------------------------------------------------
+
+[<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://januarythomas.medium.com/)
 I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I love Doing Advanced Mathematics especially Statistics and Calculus, I do reseaches on Deep Learning models.
 
 ### Languages
