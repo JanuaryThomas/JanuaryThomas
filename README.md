@@ -3,9 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=JanuaryThomas&color=red)
 -------------------------------------------------
 
-[<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://januarythomas.medium.com/)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://januarythomas.medium.com/) 
+[<img alt="Twitter" src="https://img.shields.io/badge/<StormJanuary>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/StormJanuary)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/january-thomas-86ba2b115/)
 ----------
-I have high Interest in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I love Doing Advanced Mathematics especially Statistics and Calculus, I do reseaches on Deep Learning models.
+Interested in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I love Doing Advanced Mathematics especially Statistics and Calculus, I reseach and learning about Deep Learning models.
 
 ### Languages
 
