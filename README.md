@@ -58,9 +58,8 @@ Interested in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I 
 
 ### Works
 My Favorited Works
-   1. Ceres a Plant disease Image Classification Android application, Based on ResNet Initially was written using Keras now in Pytorch
-   2. All of IoT
-   3. AWS Reference Archs (IoT and Data Engineering) and Codes (Soon.....)
+   1. All of IoT
+   2. AWS Reference Archs
    
 👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
    1.   <img src="https://static1.squarespace.com/static/589343aabe6594fa6e0f036c/t/5c7bcb3ca4222ff534240f45/1609594882565/?format=1500w" height="15" width="60" alt="M-Gas" class="logo-1"> [Kopagas](http://kopagas.com/), 
