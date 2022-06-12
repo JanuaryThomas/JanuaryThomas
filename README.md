@@ -12,10 +12,8 @@ Interested in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I 
 ### Languages
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphq)
 
@@ -37,9 +35,6 @@ Interested in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I 
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-000?&&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-000?&style=for-the-badge&logo=Linux&logoColor=white)
 
 
 ### IoT and DIY
@@ -51,24 +46,7 @@ Interested in IoT and Embedding Software Design. I'm Data Scientist/Engineer, I 
 ### Machine Learning and Data Analytics
 
 ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![Tensorflow 2.0](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### Works
-My Favorited Works
-   1. All of IoT
-   2. AWS Reference Archs
-   
-👣 Footprint: Amazing organizations i (i'm/have) (worked/working) with 
-   1.   <img src="https://static1.squarespace.com/static/589343aabe6594fa6e0f036c/t/5c7bcb3ca4222ff534240f45/1609594882565/?format=1500w" height="15" width="60" alt="M-Gas" class="logo-1"> [Kopagas](http://kopagas.com/), 
-   2. <img src="https://mgas.ke/wp-content/uploads/2019/11/logo.png" height="15" width="60" alt="M-Gas" class="logo-1"> [MGas](https://mgas.ke/), 
-### Learning
-   1. [I'm learning a lot of research papers](https://arxiv.org/)
-  
-
-### Doing at Night
-   1. Learning and Implementing Self Driving Cars with Just Simple Hardware and Electronics
-   2. Just deployed Covid19 Facemask and Thermal scanner inside Greengrass and Raspberry Pi (Progress Made)
   
