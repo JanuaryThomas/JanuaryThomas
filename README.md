@@ -4,7 +4,6 @@
 -------------------------------------------------
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://januarythomas.medium.com/) 
-[<img alt="Twitter" src="https://img.shields.io/badge/StormJanuary%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/StormJanuary)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/january-thomas-86ba2b115/)
 ----------
 
